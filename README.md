@@ -129,30 +129,6 @@ GOOD	OFF
 MEDIUM	OFF
 BAD	ON
 
-
-📷 Project Architecture
-    MQ135 + DHT11
-        │
-        ▼
-      ESP32
-        │
- ┌──────┼──────┐
- ▼      ▼      ▼
-LCD   Alerts  Relay
-              │
-              ▼
-            DC Fan
-        │
-        ▼
-  Web Dashboard
-        │
-        ▼
- Telegram Alerts
-        │
-        ▼
- ThingSpeak Cloud
-
-
 🎯 Applications
 Smart Homes
 Offices
